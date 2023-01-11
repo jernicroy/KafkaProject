@@ -34,6 +34,7 @@ public class ReadDataConsumer
          String bootstrapServers="localhost:9092";  
          String grp_id="third_app";
          String topic="student-details";  
+		 
          //Creating consumer properties  
          Properties properties=new Properties();  
          properties.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG,bootstrapServers);  
