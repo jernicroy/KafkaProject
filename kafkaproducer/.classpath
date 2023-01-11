@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/kafka/kafka-clients/3.3.1/kafka-clients-3.3.1.jar" sourcepath="M2_REPO/org/apache/kafka/kafka-clients/3.3.1/kafka-clients-3.3.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/luben/zstd-jni/1.5.2-1/zstd-jni-1.5.2-1.jar" sourcepath="M2_REPO/com/github/luben/zstd-jni/1.5.2-1/zstd-jni-1.5.2-1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar" sourcepath="M2_REPO/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar" sourcepath="M2_REPO/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.19.0/log4j-slf4j-impl-2.19.0.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.19.0/log4j-slf4j-impl-2.19.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.14.1/jackson-databind-2.14.1.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.14.1/jackson-databind-2.14.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.14.1/jackson-annotations-2.14.1.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.14.1/jackson-annotations-2.14.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.14.1/jackson-core-2.14.1.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.14.1/jackson-core-2.14.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar" sourcepath="M2_REPO/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/opencsv/opencsv/5.7.1/opencsv-5.7.1.jar" sourcepath="M2_REPO/com/opencsv/opencsv/5.7.1/opencsv-5.7.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar" sourcepath="M2_REPO/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar" sourcepath="M2_REPO/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" sourcepath="M2_REPO/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar"/>
+</classpath>
